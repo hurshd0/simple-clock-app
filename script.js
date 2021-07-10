@@ -23,4 +23,4 @@ function updateClock() {
 }
 
 
-let interval = setInterval(updateClock, 1000);
+let interval = setInterval(updateClock, 1);
