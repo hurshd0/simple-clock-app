@@ -8,7 +8,7 @@
 - AWS AMI
 - Docker, AWS ECS, ECR, Elastic beanstalk
 
-### Product Demo
+### What it looks like?
 <img src="https://i.imgur.com/jo2g96a.png" width="50%" height="50%"/>
 
 ### Credit
