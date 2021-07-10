@@ -76,6 +76,7 @@ body {
 
 .time div:last-child span{
     background-color: #c000ff;
+    text-transform: uppercase;
 }
 
 .time div:last-child span:nth-child(2){

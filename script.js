@@ -15,7 +15,7 @@ function updateClock() {
     let ap = h >= 12 ? 'pm' : 'am';
     h = h % 12;
     h = h ? h : 12;
-    console.log(`TimeZone: ${usertz}, Hour: ${h}, Minute: ${m}, Second: ${s}, AM/PM: ${ampm}`);    
+    // console.log(`TimeZone: ${usertz}, Hour: ${h}, Minute: ${m}, Second: ${s}, AM/PM: ${ampm}`);    
     hours.textContent = h;
     minutes.textContent = m;
     seconds.textContent = s;
