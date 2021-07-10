@@ -9,7 +9,7 @@
 - Docker, AWS ECS, ECR, Elastic beanstalk
 
 ### Product Demo
-<img src="https://i.imgur.com/jo2g96a.png" width="35%" height="35%"/>
+<img src="https://i.imgur.com/jo2g96a.png" width="50%" height="50%"/>
 
 ### Credit
 
